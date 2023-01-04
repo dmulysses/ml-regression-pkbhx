@@ -10,3 +10,6 @@
    We can represent the description given by IUPAC in the form of a chemical equation like the one shown below. In this case, the hydrogen bond (denoted as three dots) is formed by the interaction between a molecule containing the X–H moiety denominated as hydrogen bond donor (HBD), and the molecule that contains the atom that will interact with the X-H forming a bond, called as hydrogen bond acceptor (HBA).
 
 $$HBA + HBD \rightleftharpoons HBA\cdots HBD$$
+
+
+$$\mathit{K} = \frac{[HBA\cdots HBD]}{[HBA][HBD]}$$
