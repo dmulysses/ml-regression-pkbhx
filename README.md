@@ -11,17 +11,19 @@
   The debate to define a hydrogen bond began in the first decades of the XX century and has evolved until we reached the current definition. In 2011, the International Union of Pure & Applied Chemistry (IUPAC) proposed the following recommendation:
 > The hydrogen bond is an attractive interaction between a hydrogen atom from a molecule or a molecular fragment X–H in which X is more electronegative than H, and an atom or a group of atoms in the same or a different molecule, in which there is evidence of bond formation.
 
-   We can represent the description given by IUPAC in the form of a chemical equation like the one shown below. In this case, the hydrogen bond (denoted as three dots) is formed by the interaction between a molecule containing the X–H moiety denominated as hydrogen bond donor (HBD), and the molecule that contains the atom that will interact with the X-H forming a bond, called as hydrogen bond acceptor (HBA).
+   We can represent the description given by IUPAC in the form of a chemical equation like the one shown below. In this case, the hydrogen bond (denoted as three dots) is formed by the interaction between a molecule containing the X–H moiety denominated as hydrogen bond donor (HBD), and the molecule that contains the atom that will interact with the X-H forming a bond, called as hydrogen bond acceptor (HBA)
 
 $$HBA + HBD \rightleftharpoons HBA\cdots HBD$$
 
-  From this chemical representation, we can write a mathematical equation using the concentration correlation to describe the strength of the interaction between HBD and HBA represented by the complexation constant K.
+  From this chemical representation, we can write a mathematical equation using the concentration of the species to describe the strength of the interaction between HBD and HBA represented by the complexation constant _K_
 
 $$\mathit{K} = \frac{[HBA\cdots HBD]}{[HBA][HBD]}$$
 
 or in the commonly used logarithmic form
 
 $$p\mathit{K}_{BHX}= log\mathit{K} = log\frac{[HBA\cdots HBD]}{[HBA][HBD]}$$
+
+It is interesting to note that if we use a single HBD molecule as a reference, it becomes possible to construct a scale of hydrogen bonding strength for different HBA molecules, i.e., the value of _K_ becomes the measure of the ability of the HBA molecule to form a hydrogen bond.
 
 An extensive discussion including the historical review, basic principles, and experimental and theoretical determination of hydrogen bond is available in the excellent _Nature of the Hydrogen Bond: Outline of a Comprehensive Hydrogen Bond Theory_.
 
