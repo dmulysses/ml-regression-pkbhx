@@ -22,3 +22,7 @@ $$\mathit{K} = \frac{[HBA\cdots HBD]}{[HBA][HBD]}$$
 or in the commonly used logarithmic form
 
 $$p\mathit{K}_{BHX}= log\mathit{K} = log\frac{[HBA\cdots HBD]}{[HBA][HBD]}$$
+
+An extensive discussion including the historical review, basic principles, and experimental and theoretical determination of hydrogen bond is available in the excellent _Nature of the Hydrogen Bond: The Nature of the Hydrogen Bond: Outline of a Comprehensive Hydrogen Bond Theory_.
+
+<a href="https://academic.oup.com/book/11749"/><img src="https://user-images.githubusercontent.com/8021054/210620687-ffb8cb2b-1bd3-4f3f-9a5e-c1f46c64e57b.PNG" height="400"/>
