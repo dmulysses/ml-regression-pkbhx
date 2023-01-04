@@ -1,7 +1,7 @@
 # Machine Learning | Predicting Hydrogen-Bond Basicity
 
 # Problem Scope
-  The inter- and intramolecular interactions are essential in physical, chemical, and biological properties. Within the various existing interactions, such as ionic strength and Van Der Waals interactions, hydrogen bonding (HB) strongly influences properties such as the solubility of inorganic and organic compounds, reactivity of molecules, activity of drugs, crystal packing, protein structures, and the catalytic activity of enzymes.
+  The inter- and intramolecular interactions are essential in physical, chemical, and biological properties. Within the various existing interactions, such as ionic strength and Van Der Waals interactions, hydrogen bonding (HB) strongly influences properties such as the solubility of inorganic and organic compounds, reactivity of molecules in the ground and excited states, activity of drugs, crystal packing, protein structures, and the catalytic activity of enzymes.
   
   
   The debate to define a hydrogen bond began in the first decades of the XX century and has evolved until we reached the current definition. In 2011, the International Union of Pure & Applied Chemistry (IUPAC) proposed the following recommendation:
