@@ -23,7 +23,7 @@ or in the commonly used logarithmic form
 
 $$p\mathit{K}_{BHX}= log\mathit{K} = log\frac{[HBA\cdots HBD]}{[HBA][HBD]}$$
 
-It is interesting to note that if we use a single HBD molecule as a reference, it becomes possible to construct a scale of hydrogen bonding strength for different HBA molecules, i.e., the value of _K_ becomes the measure of the ability of the HBA molecule to form a hydrogen bond. In 2009, Laurence and co-workers reported in the Journal of Medicinal Chemistry a database containing the experimental p*K*<sub>BHX</sub> value from about 1100 HBA, using 4-fluorphenol as an HBD reference.
+It is interesting to note that if we use a single HBD molecule as a reference, it becomes possible to construct a scale of hydrogen bonding strength for different HBA molecules, i.e., the value of _K_ becomes the measure of the ability of the HBA molecule to form a hydrogen bond. In 2009, Laurence and co-workers reported in the [Journal of Medicinal Chemistry](https://pubs.acs.org/doi/10.1021/jm801331y) a comprehensive database containing the experimental p*K*<sub>BHX</sub> value from about 1100 HBA, using 4-fluorphenol as an HBD reference.
 
 An extensive discussion including the historical review, basic principles, and experimental and theoretical determination of hydrogen bond is available in the excellent _Nature of the Hydrogen Bond: Outline of a Comprehensive Hydrogen Bond Theory_.
 
