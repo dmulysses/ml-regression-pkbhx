@@ -11,5 +11,10 @@
 
 $$HBA + HBD \rightleftharpoons HBA\cdots HBD$$
 
+  From this chemical representation, we can write a mathematical equation using the concentration correlation that describes the strength of the interaction between HBD and HBA represented by the complexation constant K.
 
 $$\mathit{K} = \frac{[HBA\cdots HBD]}{[HBA][HBD]}$$
+
+or in the commonly used logarithmic form
+
+$$p\mathit{K}_{BHX}= log\mathit{K} = log\frac{[HBA\cdots HBD]}{[HBA][HBD]}$$
