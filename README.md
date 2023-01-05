@@ -5,7 +5,7 @@
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Sckit-Learn](https://img.shields.io/badge/Scikitlearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
 # Problem Scope
-  The inter- and intramolecular interactions are essential in physical, chemical, and biological properties. Within the various existing interactions, such as ionic strength and Van Der Waals interactions, hydrogen bonding (HB) strongly influences properties such as the solubility of inorganic and organic compounds, reactivity of molecules in the ground and excited states, activity of drugs, crystal packing, protein structures, and the catalytic activity of enzymes.
+  The inter- and intramolecular interactions are pivotal in physical, chemical, and biological properties. Within the various existing interactions, such as ionic strength and Van Der Waals interactions, hydrogen bonding (HB) strongly influences properties such as the solubility of inorganic and organic compounds, reactivity of molecules in the ground and excited states, activity of drugs, crystal packing, protein structures, and the catalytic activity of enzymes.
   
   
   The debate to define a hydrogen bond began in the first decades of the XX century and has evolved until we reached the current definition. In 2011, the International Union of Pure & Applied Chemistry (IUPAC) proposed the following recommendation:
