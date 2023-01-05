@@ -1,7 +1,5 @@
 # Machine Learning | Predicting Hydrogen-Bond Basicity
 
-
-
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Sckit-Learn](https://img.shields.io/badge/Scikitlearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
 # Problem Scope
@@ -28,3 +26,9 @@ It is interesting to note that if we use a single HBD molecule as a reference, i
 An extensive discussion including the historical review, basic principles, and experimental and theoretical determination of hydrogen bond is available in the excellent _Nature of the Hydrogen Bond: Outline of a Comprehensive Hydrogen Bond Theory_.
 
 <a href="https://academic.oup.com/book/11749"/><img src="https://user-images.githubusercontent.com/8021054/210620687-ffb8cb2b-1bd3-4f3f-9a5e-c1f46c64e57b.PNG" height="400"/>
+
+# Metric
+
+Root Mean Squared Error
+
+$$RMSE(y, \hat{y}) = \sqrt{\frac{1}{n}\sum_{i=1}^{n}(y_{i}-\hat{y}_{i})^{2}}$$
