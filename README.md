@@ -29,6 +29,16 @@ An extensive discussion including the historical review, basic principles, and e
 
 # Metric
 
+The following metrics were used for evaluating the model performance.
+
+Coefficient of determination ( $R^{2}$ ):
+
+$$R^{2} = 1 - \frac{\sum_{i=1}^{n}(y_{i}-\hat{y_{i}})^{2}}{\sum_{i=1}^{n}(y_{i}-\bar{y}_{i})^{2}}$$
+
 Root Mean Squared Error
 
 $$RMSE(y, \hat{y}) = \sqrt{\frac{1}{n}\sum_{i=1}^{n}(y_{i}-\hat{y}_{i})^{2}}$$
+
+Mean Absolute Error (MAE):
+
+$$MAE = \frac{ \sum_{i=1}^{n}|y_{i}-\hat{y}_{i}|}{n}$$
