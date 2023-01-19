@@ -25,6 +25,8 @@ It is interesting to note that if we use a single HBD molecule as a reference, i
 
 # Goals
 
+To predict the p*K*<sub>BHX</sub>, it was evaluated four machine learning algorithms: Support Vector Machine, K-Nearest Neighbors, Light Gradient Boosting, Random Forest, and Tree-based Pipeline Optimization Tool (TPOPT, an AutoML tool).
+
 # Reference
 
 An extensive discussion including the historical review, basic principles, and experimental and theoretical determination of hydrogen bond is available in the excellent _Nature of the Hydrogen Bond: Outline of a Comprehensive Hydrogen Bond Theory_.
